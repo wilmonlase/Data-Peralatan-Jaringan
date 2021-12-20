@@ -1,0 +1,11 @@
+@media print
+{
+    #page-wrapper
+    {
+        margin: 0px !important;
+    }
+    .navbar-side
+    {
+        width: 0px !important;
+    }
+}
